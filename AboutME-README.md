@@ -1,4 +1,4 @@
-# Laraven Gordon – AI Strategy & Machine Learning Implementation
+# La Raven Gordon – AI Strategy & Machine Learning Implementation
 
 👋 Hi, I’m **@gordon-laraven** – I help businesses **strategically adopt AI** and **implement ML solutions** that drive real-world impact.
 
