@@ -35,9 +35,9 @@
 ---
 
 ## 📌 Portfolio & Contact
-- 🎯 [**View My Interactive Portfolio**](https://laraven-gordon-resume.streamlit.app/)
-- 📫 **LinkedIn:** [linkedin.com/in/laraven-gordon](https://linkedin.com/in/laraven-gordon)
-- 💬 **WhatsApp Business:** [+1 8482697402](https://wa.me/18482697402)
+- 🎯 [**View My Interactive Resume**](https://laraven-gordon-resume.streamlit.app/)
+- 📫 **LinkedIn:** [**Add Me On LinkedIn**](https://linkedin.com/in/laraven-gordon)
+- 💬 **WhatsApp Business:** [**Contact Me On WhatsApp Business**](https://wa.me/18482697402)
 
 ---
 
